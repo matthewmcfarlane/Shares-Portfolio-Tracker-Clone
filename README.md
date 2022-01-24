@@ -1,8 +1,8 @@
-# Share Tracker Application
+# Share Tracker
 
-Portfolio Tracker app allows a user to track their shareholding portfolio performance in real-time.
+A portfolio tracker which allows users to add and remove shares in various companies while tracking performance realtime through the use of API's.
+
 #
-
 ## Project brief
 
 A local trader has come to you with a portfolio of shares. She wants to be able to analyse it more effectively. She has a small sample data set to give you and would like you to build a Minimum Viable Product (MVP) that uses the data to display her portfolio so that she can make better decisions.
@@ -12,9 +12,9 @@ A local trader has come to you with a portfolio of shares. She wants to be able 
 
 A user should be able to:
 
-- view total current value.
-- view individual and total performance trends.
-- retrieve a list of share prices from an external API and add shares to their portfolio.
+- View total current value.
+- View individual and total performance trends.
+- Retrieve a list of share prices from an external API and add shares to their portfolio.
 - View a chart of the current values in their portfolio.
 
 ## Extensions
@@ -37,12 +37,13 @@ Portfolio area:
 
 ## API, Libraries, Resources
 
-- https://financialmodelingprep.com/
+- https://financialmodelingprep.com/ 
 - https://www.highcharts.com/
 - https://reactjs.org/
 - https://expressjs.com/
 - https://nodejs.org/en/
 - https://www.mongodb.com/
+- https://react-bootstrap.github.io/
 
 
 #
