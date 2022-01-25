@@ -25,15 +25,29 @@ A user should be able to:
 - Implement a search box to find a specific stock using external API data.
 - Compare past share performance data for any publicly traded company.
 
-## Screenshots
+## Video Demo and Screenshots
 
-Discover area:
+Demo: https://youtu.be/f05D_Hy-H0Y
 
-![Screenshot of Portfolio page](images/discoverPage.png "Discover Page")
 
-Portfolio area:
+Portfolio / Home Page
 
-![Screenshot of Discover page](images/portfolioPage.png "Portfolio Page")
+![Screenshot of Portfolio page](images/PortfolioHomePage.png "Portfolio")
+
+
+![Stock Price History](images/ShareHistory.png "Stock Price History")
+
+![Add More Shares](images/AddMore.png "Add More Shares")
+
+![Remove Some Shares](images/Remove.png "Remove Some Shares")
+
+![Delete Shares](images/Delete.png "Delete Shares")
+
+Discover Page
+
+![Discover Main Page](images/DiscoverMain.png "Discover Main Page")
+![Search Feature](images/Search.png "Search Feature")
+
 
 ## API, Libraries, Resources
 
