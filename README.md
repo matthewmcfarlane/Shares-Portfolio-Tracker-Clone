@@ -1,8 +1,9 @@
-# Share Tracker
+# Portfolio Tracker
+The Portfolio Tracker app allows a user to track their shareholdings performance and total portfolio value in real-time. The "Discover" page allows a user to select a number of stocks provided by an external API, real-time data comes from the NASDAQ stock exchange. User is able to compare different stocks, add them to their portfolio and track the total portfolio value in real-time which is displayed on "My Portfolio" page.
 
-A portfolio tracker which allows users to add and remove shares in various companies while tracking performance realtime through the use of API's.
+Build using MongoDB, Express, React, Node.
 
-#
+
 ## Project brief
 
 A local trader has come to you with a portfolio of shares. She wants to be able to analyse it more effectively. She has a small sample data set to give you and would like you to build a Minimum Viable Product (MVP) that uses the data to display her portfolio so that she can make better decisions.
@@ -51,8 +52,8 @@ Discover Page
 
 ## API, Libraries, Resources
 
-- https://financialmodelingprep.com/ 
-- https://www.highcharts.com/
+- https://financialmodelingprep.com/ (API)
+- https://www.highcharts.com/ 
 - https://reactjs.org/
 - https://expressjs.com/
 - https://nodejs.org/en/
